@@ -1,4 +1,4 @@
-# Go standards #
+#GOST (GO STandards) #
 
 ## Logger ##
 
