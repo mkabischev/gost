@@ -1,4 +1,6 @@
-# Logger #
+# Go standards #
+
+## Logger ##
 
 ```import "github.com/Barberrrry/gost/logger"```
 
